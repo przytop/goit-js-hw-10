@@ -1,0 +1,15 @@
+section {
+  margin-bottom: 40px;
+}
+
+.timer {
+  display: flex;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+  margin-right: 18px;
+}
